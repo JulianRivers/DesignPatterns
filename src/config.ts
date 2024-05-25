@@ -39,7 +39,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/demo-avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Patrones de Diseño',
-  bio: 'Feels the Power Design Pattern☝️🤓',
+  bio: 'OVA realizado por los estudiantes de la Universidad Francisco de Paula Santander para la materia Informática Educativa',
   links: [
     {
       name: 'GitHub',
